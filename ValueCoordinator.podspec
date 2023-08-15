@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'ValueCoordinator'
   s.version          = '1.0.0'
-  s.summary          = 'The resulting value determining with an auto managed stack of value providers.'
+  s.summary          = 'The resulting value determination with a managed stack of value providers.'
 
   s.description      = <<-DESC
-  Create the coordinated value, add value providers on the stack, customize the resulting value determining. 
+  Create a coordinated value, add value providers, customize the resulting value determining strategy. 
                        DESC
 
   s.homepage         = 'https://github.com/maxoldev/ValueCoordinator'
