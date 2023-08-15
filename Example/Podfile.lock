@@ -1,0 +1,16 @@
+PODS:
+  - ValueCoordinator (1.0.0)
+
+DEPENDENCIES:
+  - ValueCoordinator (from `../`)
+
+EXTERNAL SOURCES:
+  ValueCoordinator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ValueCoordinator: 1518f5cfcd3f1b08c63fd3ddb2f3159d29d332ad
+
+PODFILE CHECKSUM: 4e7eafc516f721b012dbda287b96962e822725c3
+
+COCOAPODS: 1.12.1
