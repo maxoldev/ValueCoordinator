@@ -212,10 +212,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = UHB2EZ956C;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = UHB2EZ956C;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -480,6 +482,7 @@
 			baseConfigurationReference = E3219EDB6269458FF45BFF51 /* Pods-ValueCoordinator_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UHB2EZ956C;
 				INFOPLIST_FILE = ValueCoordinator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -494,6 +497,7 @@
 			baseConfigurationReference = A9A45F0112563D515FB1BC34 /* Pods-ValueCoordinator_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UHB2EZ956C;
 				INFOPLIST_FILE = ValueCoordinator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -507,6 +511,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 29107B2C845DE3CCA91A0DF9 /* Pods-ValueCoordinator_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = UHB2EZ956C;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -528,6 +533,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 40F91C88B4202C54C40FCD73 /* Pods-ValueCoordinator_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = UHB2EZ956C;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
